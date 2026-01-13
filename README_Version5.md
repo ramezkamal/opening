@@ -121,21 +121,5 @@ Send your CV (PDF) and any demo GIFs/screenshots you want included. I will:
 - LinkedIn: https://linkedin.com/in/ramez-kamal-a8374527a  
 - GitHub: https://github.com/ramezkamal
 
----
 
-## ✨ Want it more interactive?
-I can:
-- Add live demo embeds (Streamlit / Vercel)  
-- Add animated GIFs for each project (you provide URLs)  
-- Create cards with badges (Stars, Language, Last commit) for each repo  
-- Make a small GitHub Action to regenerate stats or thumbnails automatically
 
----
-
-Thanks — tell me which 3 repos to feature if you want different ones, and paste any GIF/screenshot URLs.  
-
-When you're ready:
-- Reply with: Upload confirmation and target repo/branch (example: "Upload to ramezkamal/ramezkamal branch main, overwrite yes")  
-- If you want me to use a different repo (e.g., one of your existing repos), provide that repo name and branch.
-
-I will wait for your "Upload" instruction before pushing the README to your repository.
